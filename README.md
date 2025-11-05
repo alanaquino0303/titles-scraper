@@ -19,8 +19,8 @@ Scraper en **Python** diseñado para extraer texto de etiquetas HTML específica
 
 ```
 / titles-scraper
-├── titles_scraper.py        # Script principal del scraper.
-├── README.md                # Documentación del proyecto.
+├─ titles_scraper.py        # Script principal del scraper.
+└─ README.md                # Documentación del proyecto.
 ```
 
 ---
@@ -42,22 +42,22 @@ Instala las dependencias con:
 
 ## Ejecución
 
-### En Windows
-
-1. Abre una terminal en la carpeta del proyecto.
-2. Ejecuta el siguiente comando:
-
-   ```bash
-   python titles_scraper.py
-   ```
-
-### En macOS / Linux
+### En Linux o macOS
 
 1. Abre una terminal en la carpeta del proyecto.
 2. Ejecuta:
 
    ```bash
    python3 titles_scraper.py
+   ```
+
+### En Windows
+
+1. Abre una terminal en la carpeta del proyecto.
+2. Ejecuta:
+
+   ```bash
+   python titles_scraper.py
    ```
 
 ### Ejemplo de uso
